@@ -248,7 +248,7 @@ var styles = StyleSheet.create({
     position: 'absolute',
   },
   container: {
-    backgroundColor: 'red',
+    backgroundColor: 'transparent',
     flex: 1,
     flexDirection: 'row',
   },
